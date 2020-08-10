@@ -4,3 +4,6 @@ The Stakepool is to 3 Relays connected.<br><br>
 
 # Why should i choose this Pool?
 Stake Pools deployed in Data Centers, benefit from statistically higher internet connectivity reliability then Stake Pools deployed individually using home internet connections.
+
+# How to contact me?
+I have created an Twitter Account, on that i post news about the Stakepool and other stuff. You can check it out <a href="url">here.</a>
