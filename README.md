@@ -18,7 +18,7 @@ We are ready to provide You the best service, running non-stop the whole year lo
 <br>
   
   <b>About me</b><br><br>
-  Hello, my name is Dario. I am an software engineer student in Switzerland. I work almost a year as an ICT-Support. I have good knowlead about Security and Linux. <br><br>
+  Hello, my name is Dario, I am an software engineer student in Switzerland. I found Cardano early this year and I want to contribute to this project with my stakepool. I work as an ICT-Support for almost a year. From this i have good knowledge about security and servers. <br><br>
   
 <b>How can you delegate?</b><br><br>
   All the instructions needed are provided on the Delegate Your Stake section on the official Cardano website.<br>
