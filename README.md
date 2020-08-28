@@ -22,10 +22,10 @@ We are ready to provide You the best service, running non-stop the whole year lo
   
 <b>How can you delegate?</b><br><br>
   All the instructions needed are provided on the Delegate Your Stake section on the official Cardano website.<br>
+  
+  Ticker: NIRV<br>
 
-Make sure you are delegating to our pools by verifying the pool ID:<br>
-
-NIRV: 8f97ed3ad2b116019becc46ed3e18a02c2ec280d8d45803c1f592a2c<br>
+Make sure you are delegating to our pools by verifying the pool ID: 8f97ed3ad2b116019becc46ed3e18a02c2ec280d8d45803c1f592a2c<br>
 
 <br>
 
