@@ -15,7 +15,7 @@ We are ready to provide You the best service, running non-stop the whole year lo
     </td> 
   </tr>
 </table>
-<br><br>
+<br>
   
   <b>About me</b><br><br>
   Hello, my name is Dario. I am an software engineer student in Switzerland. I work almost a year as an ICT-Support. I have good knowlead about Security and Linux. <br><br>
@@ -27,7 +27,7 @@ Make sure you are delegating to our pools by verifying the pool ID:<br>
 
 NIRV: 8f97ed3ad2b116019becc46ed3e18a02c2ec280d8d45803c1f592a2c<br>
 
-<br><br>
+<br>
 
 <b>How can you contact me?</b><br><br>
 
