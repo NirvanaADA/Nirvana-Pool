@@ -31,11 +31,17 @@ NIRV: 8f97ed3ad2b116019becc46ed3e18a02c2ec280d8d45803c1f592a2c<br>
 
 Plans for the near future.<br>
 <li>
-  Switch Grafana on HTTPS
+  Switch Grafana to HTTPS
+</li>
+<li>
   Set up frames on the website from Grafana
+</li>
+<li>
   Expand the Website, with Tutorials and Newsfeed
+</li>
+<li>
   and more...
-  </li>
+</li>
   <br>
   
 
