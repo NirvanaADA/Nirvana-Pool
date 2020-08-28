@@ -35,9 +35,9 @@ Make sure you are delegating to our pools by verifying the pool ID: 8f97ed3ad2b1
 
 <br>
 
-<b>Topology</b>
-<img src="selfhtml.png" alt="Selfhtml">
-<br>
+<b>Topology</b><br>
+<img src="https://github.com/NirvanaADA/Nirvana-Pool/blob/master/cardano_network.png" alt="Topology">
+<br><br>
 
 <b>Plans for the near future.</b><br>
 <li>
