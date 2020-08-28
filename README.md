@@ -10,12 +10,15 @@ We are setting our fees on a moderate level — 1.9 % + 340  fixed (min. fixed p
 We have the Stakepool setup on an Cloud-Server. Stake Pools deployed in Data Centers, benefit from statistically higher internet connectivity reliability then Stake Pools deployed individually using home internet connections. 
         </td> 
         <td style="vertical-align:top;">
-          <b>24 / 7 / 365</b><br><br>
+          <b>24 / 7 / 365 Uptime</b><br><br>
 We are ready to provide You the best service, running non-stop the whole year long. 
     </td> 
   </tr>
 </table>
 <br><br>
+  
+  <b>About me<b>
+  Hello, my name is Dario. I am an software engineer student in Switzerland. I work almost a year as an ICT-Support. I have good knowlead about Security and Linux. 
   
 <b>How can you delegate?</b><br><br>
   All the instructions needed are provided on the Delegate Your Stake section on the official Cardano website.<br>
