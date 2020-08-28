@@ -17,7 +17,7 @@ We are ready to provide You the best service, running non-stop the whole year lo
 </table>
 <br><br>
   
-  <b>About me<b>
+  <b>About me</b><br><br>
   Hello, my name is Dario. I am an software engineer student in Switzerland. I work almost a year as an ICT-Support. I have good knowlead about Security and Linux. 
   
 <b>How can you delegate?</b><br><br>
