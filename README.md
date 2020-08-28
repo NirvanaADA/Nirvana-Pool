@@ -29,7 +29,7 @@ NIRV: 8f97ed3ad2b116019becc46ed3e18a02c2ec280d8d45803c1f592a2c<br>
 
 <br>
 
-Plans for the near future.<br>
+<b>Plans for the near future.</b><br>
 <li>
   Switch Grafana to HTTPS
 </li>
