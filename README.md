@@ -14,6 +14,12 @@ We have the Stakepool setup on an Cloud-Server. Stake Pools deployed in Data Cen
 We are ready to provide You the best service, running non-stop the whole year long. 
     </td> 
   </tr>
+  <tr>
+    <td style="vertical-align:top;">
+      <b>Scaling</b><br>
+      Whenever the needs of running the Cardano stake pools changes, our setup will scale with the requirements.
+    </td>
+  </tr>
 </table>
 <br>
   
