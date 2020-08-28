@@ -35,6 +35,10 @@ Make sure you are delegating to our pools by verifying the pool ID: 8f97ed3ad2b1
 
 <br>
 
+<b>Topology</b>
+<img src="selfhtml.png" alt="Selfhtml">
+<br>
+
 <b>Plans for the near future.</b><br>
 <li>
   Switch Grafana to HTTPS
