@@ -16,7 +16,7 @@ We are ready to provide You the best service, running non-stop the whole year lo
   </tr>
   <tr>
     <td style="vertical-align:top;">
-      <b>Scaling</b><br>
+      <b>Scaling</b><br><br>
       Whenever the needs of running the Cardano stake pools changes, our setup will scale with the requirements.
     </td>
   </tr>
