@@ -29,6 +29,16 @@ NIRV: 8f97ed3ad2b116019becc46ed3e18a02c2ec280d8d45803c1f592a2c<br>
 
 <br>
 
+Plans for the near future.<br>
+<li>
+  Switch Grafana on HTTPS
+  Set up frames on the website from Grafana
+  Expand the Website, with Tutorials and Newsfeed
+  and more...
+  </li>
+  <br>
+  
+
 <b>How can you contact me?</b><br><br>
 
 If you have any questions, don't hesitate to contact me. Currently, we are providing support and updates on <a href="https://twitter.com/NStakepool">Twitter</a> and <a href="https://t.me/NirvanaStakepool">Telegram</a>. 
