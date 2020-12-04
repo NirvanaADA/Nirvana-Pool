@@ -1,6 +1,12 @@
 theme: jekyll-theme-cayman
 
-
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+	<title>Nirvana-Pool</title>
+    
+  </head>
 
 <main>
   <nav>
