@@ -1,10 +1,16 @@
 theme: jekyll-theme-cayman
 
-<header>
-  Test
-</header>
 
-<body>
+
+<main>
+  <nav>
+    <ul>
+      <li><a aria-current="page">Home</a></li>
+      <li><a href="impressum.html">Über uns</a></li>
+    </ul>
+  </nav>
+  
+  
     <b>Why choose this pool?<b>
     <table>
       <tr>
@@ -65,4 +71,4 @@ theme: jekyll-theme-cayman
     <b>How can you contact me?</b><br><br>
 
     If you have any questions, don't hesitate to contact me. Currently, we are providing support and updates on <a href="https://twitter.com/NStakepool">Twitter</a> and <a   href="https://t.me/NirvanaStakepool">Telegram</a>. 
-</body>
+</main>
