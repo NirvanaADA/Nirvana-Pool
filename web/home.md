@@ -78,3 +78,4 @@
 
     If you have any questions, don't hesitate to contact me. Currently, we are providing support and updates on <a href="https://twitter.com/NStakepool">Twitter</a> and <a   href="https://t.me/NirvanaStakepool">Telegram</a>. 
 </main>
+</html>
