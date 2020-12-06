@@ -1,12 +1,13 @@
 {
         "info": {
-        "location": "Sachseln, Switzerland",
+        "location": "Sachseln, Switzerland"
+        },
         "social": {
-            "twitter_handle": "NStakepool",
+            "twitter_handle": "NStakepool"
         },
         "about": {
             "me": "My name is Dario Amrhein. I am a ICT student in switzerland.",
-            "server": "Cloud Computing with Vultr.",
+            "server": "Cloud Computing with Vultr."
         },
        
     "my-pool-ids": {
